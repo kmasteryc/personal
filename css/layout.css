@@ -337,7 +337,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: codeigniter 2s ease;
 }
 .laravel {
-  	width: 75%;
+  	width: 65%;
   	-moz-animation: laravel 2s ease;
   	-webkit-animation: laravel 2s ease;
 }
@@ -347,7 +347,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: mysql 2s ease;
 }
 .jquery {
-  	width: 60%;
+  	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
@@ -373,6 +373,12 @@ ul#nav li.current a { color: #F06000; }
 }
 .npm {
     width: 20%;
+    -moz-animation: npm 2s ease;
+    -webkit-animation: npm 2s ease;
+}
+
+.english {
+    width: 65%;
     -moz-animation: npm 2s ease;
     -webkit-animation: npm 2s ease;
 }
@@ -651,7 +657,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
+	/*font-family: 'opensans-semibold', sans-serif; */
 	color: #D8D8D8;
 }
 
@@ -702,7 +708,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   /*font-family: 'librebaskerville-italic', serif;*/
    padding: 0;
    font-size: 24px;
    line-height: 48px;
